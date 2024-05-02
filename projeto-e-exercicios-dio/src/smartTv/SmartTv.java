@@ -6,7 +6,7 @@ public class SmartTv {
     int canal = 1;
     int volume = 25;   
 
-
+    
     void mudarCanal(int novoCanal){
         this.canal = novoCanal;
     }
